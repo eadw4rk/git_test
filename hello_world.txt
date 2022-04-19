@@ -1,0 +1,2 @@
+# This is just a sample text made to complete a task on The Odin Project
+# it has no practical end, it is just for learning!
