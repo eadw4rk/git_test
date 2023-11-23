@@ -1,2 +1,4 @@
 # This is just a sample text made to complete a task on The Odin Project
 # it has no practical end, it is just for learning!
+
+#I'm editing this file to understand once again how does this version control works.
