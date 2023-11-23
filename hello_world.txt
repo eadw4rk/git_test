@@ -2,3 +2,4 @@
 # it has no practical end, it is just for learning!
 
 #I'm editing this file to understand once again how does this version control works.
+#It seems to be trustworthy.
